@@ -5,8 +5,8 @@
 %global crate chunked_transfer
 
 Name:           rust-%{crate}
-Version:        1.0.0
-Release:        2%{?dist}
+Version:        1.5.0
+Release:        1%{?dist}
 Summary:        Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1)
 
 # Upstream license specification: Apache-2.0
